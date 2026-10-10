@@ -1,0 +1,47 @@
+# Day 1: What is bioinformatics?
+
+Type of work: Learning exercise
+Date:10th October 2026
+
+## Goal
+Define bioinformatics in my own words and give examples from infectious disease research.
+
+## What I did
+I read the abstract and introduction of:
+Coll F, et al. (2015). Rapid determination of anti-tuberculosis drug resistance from whole-genome sequences. Genome Medicine.
+
+Link: https://pmc.ncbi.nlm.nih.gov/articles/PMC4446134
+
+## My definition of bioinformatics
+1. Bioinformatics is the use of computer tools to store, analyse and interpret biological datasets.
+2. Researchers need computers because biological datasets are too large to analyse by eye.
+3. Computers also produce results much faster, which matters in outbreaks and for patients.
+4. Bioinformatics can predict which drugs a pathogen is resistant to, which helps in choosing treatment.
+5. Examples are COVID-19, tuberculosis and malaria.
+
+## Two infectious disease examples
+1. COVID-19: researchers compared thousands of virus genomes to track how the virus was changing.
+2. Tuberculosis: a tool read whole-genome sequence data from an isolate and predicted which anti-TB drugs it would resist.
+
+
+## Three ways computing helped in the paper
+1. It made it possible to analyse a whole genome, because a TB genome has about 4.4 million letters, which is too large to compare by eye.
+2. The mutations found were compared to a library of 1,325 known resistance markers, which is too large to check by hand.
+3. The tool gave a prediction of which drugs an isolate is resistant to, so that a patient can start effective treatment sooner.
+
+## New words I learned
+- In silico: done by computer
+- Whole-genome sequencing (WGS): reading all the DNA letters of an organism
+- Reference genome: a standard sequence used for comparison (for TB, H37Rv)
+- FASTQ: the file format that holds raw sequencing reads
+- Isolate: a microbe grown from one patient's sample
+
+## What I learned
+- what bioinformatics is and why it is used
+- three types of biological datasets
+- learnt that FASTQ is the file format that holds the raw sequencing
+
+## Problems I met and how I handled them
+- I first confused predicting drug resistance with drug discovery. Resistance prediction tells you which existing drugs will work or fail for one patient's strain. Drug discovery finds new medicines.
+- At first I copied phrases from the paper. I rewrote them in my own words instead.
+- My README showed as code instead of a formatted page. The cause was extra backtick lines pasted in with the text. I deleted them and checked the Preview tab.
