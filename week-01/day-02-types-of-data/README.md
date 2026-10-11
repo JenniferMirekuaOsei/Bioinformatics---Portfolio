@@ -32,7 +32,7 @@ Paper: Coll F, et al. (2015). Rapid determination of anti-tuberculosis drug resi
 
 ## What I learned
 Two of the three items in this paper were variant data, which makes sense because the paper is about a library of resistance variants. Some figures show a result, such as accuracy, that is calculated from more than one data type.
-i learnt how to identify different datatypes
+I learnt how to identify different datatypes
 
 ## Problems I met and how I handled them
 - I first described a variant without the word "reference". A variant is a difference from a reference, so I corrected my definition.
