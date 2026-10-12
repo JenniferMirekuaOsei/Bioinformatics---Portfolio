@@ -7,7 +7,7 @@
 Follow a sample from the lab to a data file, and tell raw data from processed data.
 
 ## My flowchart
-![From malaria blood sample to data][(flowchart.png)](https://github.com/JenniferMirekuaOsei/Bioinformatics---Portfolio/blob/8682201300b4175dbb0ada20c2b2779ad1689b08/week-01/day-03-from-lab-to-data/FLOWCHART.png)
+(https://github.com/JenniferMirekuaOsei/Bioinformatics---Portfolio/blob/8682201300b4175dbb0ada20c2b2779ad1689b08/week-01/day-03-from-lab-to-data/FLOWCHART.png) - Flowchart (SAMPLE TO DATA)
 
 ## In my own words
 - Metadata: collected when sample is being brought or taken. it gives information on when the sample was taken also when the variant was first seen. 
@@ -32,4 +32,4 @@ Follow a sample from the lab to a data file, and tell raw data from processed da
 - i learnt that its important to check the quality score of letters in a read
 
 ## Problems I met and how I handled them
-- I first thought the quality score showed 
+- I first thought the quality score showed which organism a read came from. It only shows how sure the machine is about one letter. Reads from the wrong organism, such as human DNA, are a separate problem.
