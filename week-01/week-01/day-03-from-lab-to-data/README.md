@@ -27,7 +27,7 @@ Follow a sample from the lab to a data file, and tell raw data from processed da
 - Processed data: what the computer produces from the raw data
 
 ## What I learned
-- i learnt how the processes involved from sample collection to the computer
+- i learnt the processes involved from sample collection to the computer
 - i learnt the difference between raw data and processed data
 - i learnt that its important to check the quality score of letters in a read
 
