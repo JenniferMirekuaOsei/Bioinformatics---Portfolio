@@ -7,7 +7,7 @@
 Follow a sample from the lab to a data file, and tell raw data from processed data.
 
 ## My flowchart
-![From malaria blood sample to data](flowchart.png)
+![From malaria blood sample to data][(flowchart.png)](https://github.com/JenniferMirekuaOsei/Bioinformatics---Portfolio/blob/8682201300b4175dbb0ada20c2b2779ad1689b08/week-01/day-03-from-lab-to-data/FLOWCHART.png)
 
 ## In my own words
 - Metadata: collected when sample is being brought or taken. it gives information on when the sample was taken also when the variant was first seen. 
