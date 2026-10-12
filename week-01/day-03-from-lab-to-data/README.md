@@ -14,7 +14,7 @@ Follow a sample from the lab to a data file, and tell raw data from processed da
 - Raw data: a data outputted after sequencing. contains data that has not been removed, changed 
 - Processed data: anything the computer produces from the raw data, for example data that has been cleaned , data that has been compared to a reference genome
 - Quality: quality score gives an idea of which letter in a read is of high quality and which letter in a read is of low quality
-- Reads: refer to sequence of letters after sequencing
+- Reads: refer to short sequence of letters after sequencing
 
 ## Why the raw data should never be edited
 - you can go back to it if you make a mistake
