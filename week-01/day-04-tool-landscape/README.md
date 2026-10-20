@@ -22,7 +22,7 @@ Gene: kelch13, Plasmodium falciparum 3D7
 | VEuPathDB | [IMAGES OF ALIGHMENTS] |I WOULD OPEN VEuPathDB WHEN I WANT DATA ON FUNGI, PARASITES ETC
 
 ## Screenshots
-[NCBI Gene page](week-01/day-04-tool-landscape/Screenshot 2026-10-19 105343.png)
+[[NCBI Gene page](week-01/day-04-tool-landscape/Screenshot 2026-10-19 105343.png](https://github.com/JenniferMirekuaOsei/Bioinformatics---Portfolio/blob/f3f4e3d637e3d421e8c3151fc58251255abc5896/week-01/day-04-tool-landscape/Screenshot%202026-10-19%20105343.png))
 [UniProt entry](uniprot.png)
 [VEuPathDB gene page](veupathdb.png)
 
