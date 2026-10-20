@@ -23,8 +23,8 @@ Gene: kelch13, Plasmodium falciparum 3D7
 
 ## Screenshots
 [[NCBI Gene page](week-01/day-04-tool-landscape/Screenshot 2026-10-19 105343.png](https://github.com/JenniferMirekuaOsei/Bioinformatics---Portfolio/blob/f3f4e3d637e3d421e8c3151fc58251255abc5896/week-01/day-04-tool-landscape/Screenshot%202026-10-19%20105343.png))
-[UniProt entry](uniprot.png)
-[VEuPathDB gene page]((https://github.com/JenniferMirekuaOsei/Bioinformatics---Portfolio/blob/ea63f3afbfc227f87326e48f2992de6756431122/week-01/day-04-tool-landscape/Screenshot%202026-10-20%20151137.png))
+[UniProt entry]([uniprot.png](https://github.com/JenniferMirekuaOsei/Bioinformatics---Portfolio/blob/bf82b8ca01972bd9c268744bf1a59d45e2e5939b/week-01/day-04-tool-landscape/Screenshot%202026-10-19%20105542.png))
+[VEuPathDB gene page]((https://github.com/JenniferMirekuaOsei/Bioinformatics--Portfolio/blob/ea63f3afbfc227f87326e48f2992de6756431122/week-01/day-04-tool-landscape/Screenshot%202026-10-20%20151137.png))
 
 ## New words I learned
 - Database: an organised collection of data you can search and download
