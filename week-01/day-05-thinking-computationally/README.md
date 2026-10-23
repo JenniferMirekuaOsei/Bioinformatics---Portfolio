@@ -31,7 +31,7 @@ Break a biological question into input, steps and output, and name the data type
 
 
 
-## Workflow 3: SARS-CoV-2
+## Workflow 2: SARS-CoV-2
 **Question:** Which SARS-CoV-2 variants were found in virus samples collected in Ghana, and how did they change over time?
 **Expected output:** a list of the variants found in the Ghana samples, with the earliest collection date for each.
 
