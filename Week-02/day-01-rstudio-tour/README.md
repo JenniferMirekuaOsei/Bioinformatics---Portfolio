@@ -12,7 +12,7 @@ Explain what programming is and find the main areas of RStudio.
 - Why code goes in a script and not only the console: a code is written in a script not only the console because the script area saves the code, the console doesn't save the code. You might actually loose your code if run in console.
 
 ## My RStudio tour
-![RStudio with labelled areas](rstudio-tour.png)
+![RStudio with labelled areas][(rstudio-tour.png)](https://github.com/JenniferMirekuaOsei/Bioinformatics---Portfolio/blob/e914c2f096af1781d563756553d2402b3141c5a6/Week-02/rstudio-tour.png)
 
 ## What I did
 -I toured the r studio. 
