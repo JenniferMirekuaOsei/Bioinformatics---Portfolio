@@ -26,11 +26,8 @@ The script is in day03_data_types.R. It creates one object of each type and chec
 
 ## An error I made on purpose
 - Code: mic_text * 2
--  - Message: [Error: object 'mic_text' not found]
+- Message: [Error: object 'mic_text' not found]
 - Cause: the "mic_text" could not be identiifed by R because i had not given it that particular instruction
 
 ## What I learned
 - I learnt the types of Data and how to input them correctly in R . also what each data type mean. 
-
-## Problems I met and how I handled them
-- [What was hard, and what you did about it]
