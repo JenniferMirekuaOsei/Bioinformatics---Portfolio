@@ -1,0 +1,17 @@
+#data type day 3 R
+# numeric: a number 
+mic_value <- 23
+#character : letters or words
+disease_name <- "tuberclosis"
+#logical : TRUE FALSE
+resistant <- TRUE
+#character : id 
+sample_GIDC <- "GHA-001"
+isolate_Id <- "GHA-001"
+class(mic_value)
+class(disease_name)
+class(resistant)
+class(isolate_Id)
+mic_value > 1
+mic_text * 2
+mic_value * 2
